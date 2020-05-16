@@ -1,0 +1,3 @@
+class javaprog {
+public static void main{string[] args}{
+system.out.Println{"Hello World"}
